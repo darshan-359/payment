@@ -1,0 +1,5 @@
+[
+  {"transactionId":"TXN-1001","amount":2500,"merchant":"ABC Electronics","cardToken":"**** **** **** 4821","deviceId":"DEV-42","location":"Hyderabad","transactionType":"Purchase"},
+  {"transactionId":"TXN-1002","amount":90000,"merchant":"Gift Marketplace","cardToken":"**** **** **** 1740","deviceId":"DEV-RISK-9","location":"Delhi","transactionType":"Purchase"},
+  {"transactionId":"TXN-1003","amount":3000,"merchant":"ABC Electronics","cardToken":"**** **** **** 4821","deviceId":"DEV-42","location":"Hyderabad","transactionType":"Purchase"}
+]
